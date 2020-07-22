@@ -18,6 +18,7 @@ namespace PromoCostCalculator.Promotions
 
         public int GetCartTotalAmount(List<CartSKU> cartItem)
         {
+            //Calculate total cart value with promotions applied
             int ATotalCost, BTotalCost, CandDTotalCost = 0;
             List<CartSKU> ACartItems = cartItem.FindAll(x => x.SKUName.Equals("a", StringComparison.OrdinalIgnoreCase)).ToList();
             ATotalCost = ACartItems != null ? GetSKUItemTotalAmount(ACartItems) : 0;

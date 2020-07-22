@@ -11,6 +11,7 @@ namespace PromoCostCalculator.Promotions
     {
         public int GetSKUAmount(List<CartSKU> cartItem)
         {
+            //Calculation of B SKUs Total price
             int discount = Math.DivRem(cartItem[0].SKUQuantity, PromotionsConstant.BPromoQuantity, out int restQuantity);
             return (discount * PromotionsConstant.BPromoValue) + (restQuantity * PromotionsConstant.BSKUPrice);
         }

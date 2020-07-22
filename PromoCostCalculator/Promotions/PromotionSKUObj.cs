@@ -9,6 +9,7 @@ namespace PromoCostCalculator.Promotions
     {
         public ICartItemCalculator GetPromotionSKUObj(string skuName)
         {
+            //Return the object of the class which is passed in the method
             switch (skuName.ToUpper())
             {
                 case "A":

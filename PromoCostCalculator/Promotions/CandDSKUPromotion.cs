@@ -10,6 +10,7 @@ namespace PromoCostCalculator.Promotions
 {
     public class CandDSKUPromotion : PromotionBaseClass, ICartItemCalculator
     {
+        //Calculation of C and D SKUs Total price
         public int GetSKUAmount(List<CartSKU> cartItem)
         {
             var cSKUCount = cartItem.AsEnumerable().Where(x => x.SKUName.Equals("C", StringComparison.OrdinalIgnoreCase))
