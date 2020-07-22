@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "PromoCostCalculator/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/PromoCostCalculator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PromoCostCalculator.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "PromoCostCalculator/1.0.0": {
+      "type": "project",
+      "path": "../PromoCostCalculator/PromoCostCalculator.csproj",
+      "msbuildProject": "../PromoCostCalculator/PromoCostCalculator.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "PromoCostCalculator >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Nidhi Yadav\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Nidhi Yadav\\Projects\\PromotionEngine\\PromotionEngine\\PromoCostCalculator\\PromoCostCalculator.csproj": {
+              "projectPath": "C:\\Users\\Nidhi Yadav\\Projects\\PromotionEngine\\PromotionEngine\\PromoCostCalculator\\PromoCostCalculator.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

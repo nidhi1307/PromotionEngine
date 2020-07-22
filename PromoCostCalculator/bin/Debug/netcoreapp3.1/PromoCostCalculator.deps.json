@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "PromotionEngine/1.0.0": {
-        "dependencies": {
-          "PromoCostCalculator": "1.0.0"
-        },
-        "runtime": {
-          "PromotionEngine.dll": {}
-        }
-      },
       "PromoCostCalculator/1.0.0": {
         "runtime": {
           "PromoCostCalculator.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "PromotionEngine/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "PromoCostCalculator/1.0.0": {
       "type": "project",
       "serviceable": false,

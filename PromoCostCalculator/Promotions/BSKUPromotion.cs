@@ -9,9 +9,9 @@ namespace PromoCostCalculator.Promotions
 {
     public class BSKUPromotion : PromotionBaseClass, ICartItemCalculator
     {
-        public int GetSKUAmount(CartSKU cartItem)
+        public int GetSKUAmount(List<CartSKU> cartItem)
         {
-            int discount = Math.DivRem(cartItem.SKUQuantity, PromotionsConstant.BPromoQuantity, out int restQuantity);
+            int discount = Math.DivRem(cartItem[0].SKUQuantity, PromotionsConstant.BPromoQuantity, out int restQuantity);
             return (discount * PromotionsConstant.BPromoValue) + (restQuantity * PromotionsConstant.BSKUPrice);
         }
     }

@@ -5,8 +5,8 @@ using System.Text;
 
 namespace PromoCostCalculator.Interfaces
 {
-    interface ICartItemCalculator
+    public interface ICartItemCalculator
     {
-        public int GetSKUAmount(CartSKU cartItem);
+        public int GetSKUAmount(List<CartSKU> cartItem);
     }
 }

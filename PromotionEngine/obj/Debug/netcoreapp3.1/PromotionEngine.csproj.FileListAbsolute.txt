@@ -11,3 +11,6 @@ C:\Users\Nidhi Yadav\Projects\PromotionEngine\PromotionEngine\PromotionEngine\ob
 C:\Users\Nidhi Yadav\Projects\PromotionEngine\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.dll
 C:\Users\Nidhi Yadav\Projects\PromotionEngine\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.pdb
 C:\Users\Nidhi Yadav\Projects\PromotionEngine\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.genruntimeconfig.cache
+C:\Users\Nidhi Yadav\Projects\PromotionEngine\PromotionEngine\PromotionEngine\bin\Debug\netcoreapp3.1\PromoCostCalculator.dll
+C:\Users\Nidhi Yadav\Projects\PromotionEngine\PromotionEngine\PromotionEngine\bin\Debug\netcoreapp3.1\PromoCostCalculator.pdb
+C:\Users\Nidhi Yadav\Projects\PromotionEngine\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.csproj.CopyComplete

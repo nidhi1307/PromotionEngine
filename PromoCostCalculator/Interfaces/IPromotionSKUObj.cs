@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PromoCostCalculator.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -6,6 +7,6 @@ namespace PromoCostCalculator.Promotions
 {
     public interface IPromotionSKUObj
     {
-        public PromotionBaseClass GetPromotionSKUObj(string skuName);
+        public ICartItemCalculator GetPromotionSKUObj(string skuName);
     }
 }

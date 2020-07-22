@@ -7,6 +7,6 @@ namespace PromoCostCalculator.Promotions
 {
     interface IPromotionCalculator
     {
-        public int GetSKUAmount(CartSKU cartItem);
+        public int GetCartTotalAmount(List<CartSKU> cartItem);
     }
 }

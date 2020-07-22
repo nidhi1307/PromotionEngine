@@ -1,0 +1,9 @@
+C:\Users\Nidhi Yadav\Projects\PromotionEngine\PromotionEngine\PromoCostCalculator\bin\Debug\netcoreapp3.1\PromoCostCalculator.deps.json
+C:\Users\Nidhi Yadav\Projects\PromotionEngine\PromotionEngine\PromoCostCalculator\bin\Debug\netcoreapp3.1\PromoCostCalculator.dll
+C:\Users\Nidhi Yadav\Projects\PromotionEngine\PromotionEngine\PromoCostCalculator\bin\Debug\netcoreapp3.1\PromoCostCalculator.pdb
+C:\Users\Nidhi Yadav\Projects\PromotionEngine\PromotionEngine\PromoCostCalculator\obj\Debug\netcoreapp3.1\PromoCostCalculator.csprojAssemblyReference.cache
+C:\Users\Nidhi Yadav\Projects\PromotionEngine\PromotionEngine\PromoCostCalculator\obj\Debug\netcoreapp3.1\PromoCostCalculator.AssemblyInfoInputs.cache
+C:\Users\Nidhi Yadav\Projects\PromotionEngine\PromotionEngine\PromoCostCalculator\obj\Debug\netcoreapp3.1\PromoCostCalculator.AssemblyInfo.cs
+C:\Users\Nidhi Yadav\Projects\PromotionEngine\PromotionEngine\PromoCostCalculator\obj\Debug\netcoreapp3.1\PromoCostCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Nidhi Yadav\Projects\PromotionEngine\PromotionEngine\PromoCostCalculator\obj\Debug\netcoreapp3.1\PromoCostCalculator.dll
+C:\Users\Nidhi Yadav\Projects\PromotionEngine\PromotionEngine\PromoCostCalculator\obj\Debug\netcoreapp3.1\PromoCostCalculator.pdb

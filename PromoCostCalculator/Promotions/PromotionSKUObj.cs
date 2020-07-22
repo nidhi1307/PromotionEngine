@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PromoCostCalculator.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -6,7 +7,7 @@ namespace PromoCostCalculator.Promotions
 {
     public class PromotionSKUObj : IPromotionSKUObj
     {
-        public PromotionBaseClass GetPromotionSKUObj(string skuName)
+        public ICartItemCalculator GetPromotionSKUObj(string skuName)
         {
             switch (skuName.ToUpper())
             {
@@ -15,6 +16,7 @@ namespace PromoCostCalculator.Promotions
                 case "B":
                     return new BSKUPromotion();
                 case "C":
+                    return new CandDSKUPromotion();
                 case "D":
                     return new CandDSKUPromotion();
 
