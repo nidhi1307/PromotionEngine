@@ -1,10 +1,18 @@
-﻿using System;
+﻿using PromoCostCalculator.Constants;
+using PromoCostCalculator.Interfaces;
+using PromoCostCalculator.Models;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace PromoCostCalculator.Promotions
 {
-    class BSKUPromotion
+    public class BSKUPromotion : PromotionBaseClass, ICartItemCalculator
     {
+        public int GetSKUAmount(CartSKU cartItem)
+        {
+            int discount = Math.DivRem(cartItem.SKUQuantity, PromotionsConstant.BPromoQuantity, out int restQuantity);
+            return (discount * PromotionsConstant.BPromoValue) + (restQuantity * PromotionsConstant.BSKUPrice);
+        }
     }
 }

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PromoCostCalculator.Models
 {
-    class CartSKU
+    public class CartSKU
     {
         public string SKUName { get; set; }
         public int SKUQuantity { get; set; }

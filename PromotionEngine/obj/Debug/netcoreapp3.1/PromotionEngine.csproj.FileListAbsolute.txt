@@ -1,0 +1,13 @@
+C:\Users\Nidhi Yadav\Projects\PromotionEngine\PromotionEngine\PromotionEngine\bin\Debug\netcoreapp3.1\PromotionEngine.exe
+C:\Users\Nidhi Yadav\Projects\PromotionEngine\PromotionEngine\PromotionEngine\bin\Debug\netcoreapp3.1\PromotionEngine.deps.json
+C:\Users\Nidhi Yadav\Projects\PromotionEngine\PromotionEngine\PromotionEngine\bin\Debug\netcoreapp3.1\PromotionEngine.runtimeconfig.json
+C:\Users\Nidhi Yadav\Projects\PromotionEngine\PromotionEngine\PromotionEngine\bin\Debug\netcoreapp3.1\PromotionEngine.runtimeconfig.dev.json
+C:\Users\Nidhi Yadav\Projects\PromotionEngine\PromotionEngine\PromotionEngine\bin\Debug\netcoreapp3.1\PromotionEngine.dll
+C:\Users\Nidhi Yadav\Projects\PromotionEngine\PromotionEngine\PromotionEngine\bin\Debug\netcoreapp3.1\PromotionEngine.pdb
+C:\Users\Nidhi Yadav\Projects\PromotionEngine\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.csprojAssemblyReference.cache
+C:\Users\Nidhi Yadav\Projects\PromotionEngine\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.AssemblyInfoInputs.cache
+C:\Users\Nidhi Yadav\Projects\PromotionEngine\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.AssemblyInfo.cs
+C:\Users\Nidhi Yadav\Projects\PromotionEngine\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.csproj.CoreCompileInputs.cache
+C:\Users\Nidhi Yadav\Projects\PromotionEngine\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.dll
+C:\Users\Nidhi Yadav\Projects\PromotionEngine\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.pdb
+C:\Users\Nidhi Yadav\Projects\PromotionEngine\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.genruntimeconfig.cache
